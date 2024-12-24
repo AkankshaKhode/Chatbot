@@ -1,0 +1,6 @@
+PyPDF2==2.10.0
+sqlite3
+sentence-transformers==2.2.2
+transformers==4.31.0
+torch==2.1.0
+streamlit==1.18.0
